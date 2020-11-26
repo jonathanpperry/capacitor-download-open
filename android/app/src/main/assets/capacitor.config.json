@@ -1,0 +1,6 @@
+{
+  "appId": "com.jonnyramen.capacitordownopen",
+  "appName": "capacitor-download-open",
+  "webDir": "www",
+  "npmClient": "npm"
+}
